@@ -2,7 +2,7 @@ WebFrontEndStack
 ==============
 
 
-Tested in Leaflet 0.7.3
+WebFrontEndStack
 
 **demo:**
 [WebFrontEndStack]
